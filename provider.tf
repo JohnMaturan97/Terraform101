@@ -1,8 +1,15 @@
 terraform {
-  required_providers {
+    required_providers {
     aws = {
       source = "hashicorp/aws"
       version = "5.33.0"
+    }
+  }
+  cloud {
+    organization = "Andromeda101"
+
+    workspaces {
+      name = "awsapm12345-db-slvr"
     }
   }
 }
