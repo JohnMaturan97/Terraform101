@@ -1,1 +1,1 @@
-# Terarform Associate Certification (003) Prep and Learning
+# Terarform Associate Certification (003) Prep and Learnings
