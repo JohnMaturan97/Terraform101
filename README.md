@@ -1,1 +1,1 @@
-# Terarform Associate Certification (003) Prep and Learnings
+![Terarform Associate Certified (003)](/Assets/tfe_cert.png)
