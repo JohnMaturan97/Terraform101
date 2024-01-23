@@ -1,1 +1,1 @@
-![Terarform Associate Certified (003)](/Assets/tfe_cert.png)
+![Terarform Associate Certified (003)](/AWS/Assets/tfe_cert.png)
