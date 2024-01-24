@@ -1,1 +1,0 @@
-# GCP Mini Projects (TBA Content)
