@@ -1,1 +1,0 @@
-# AWS Mini Projects (TBA Content)
