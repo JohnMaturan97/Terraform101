@@ -1,1 +1,1 @@
-![Terarform Associate Certified (003)](/AWS/Assets/tfe_cert.png)
+![Terarform Associate Certified (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)
