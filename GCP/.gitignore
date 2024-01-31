@@ -1,7 +1,0 @@
-/creds.tfvars
-creds.tfvars
-.terraform.lock.hcl
-/.terraform
-/terraform.tfstate
-.terraform.tfstate.lock.info
-.terraform
