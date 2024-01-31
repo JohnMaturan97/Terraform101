@@ -1,1 +1,1 @@
-![Terarform Associate Certified (003)](/AWS/Assets/tfe_cert.png)
+# Simple AWS S3 with Terraform Project
